@@ -1,0 +1,1 @@
+Since my computer does not have enough RAM for the calculation of such large data, I cut a piece of data and I created a new txt file with the dokumnet called "nowy.txt"
